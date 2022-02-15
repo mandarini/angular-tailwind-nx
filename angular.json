@@ -6,8 +6,11 @@
     "app2": "apps/app2",
     "app2-e2e": "apps/app2-e2e",
     "lib1": "libs/lib1",
+    "lib1-e2e": "apps/lib1-e2e",
     "lib2": "libs/lib2",
+    "lib2-e2e": "apps/lib2-e2e",
     "lib3": "libs/lib3",
+    "lib3-e2e": "apps/lib3-e2e",
     "tailwind-preset": "libs/tailwind-preset"
   }
 }
